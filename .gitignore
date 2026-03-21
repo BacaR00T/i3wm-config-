@@ -1,0 +1,9 @@
+# backups created by bootstrap.sh
+.dotfiles-backup-*
+
+# random editor/OS cruft
+*.swp
+.DS_Store
+
+# cache dirs (just in case you accidentally copy them)
+**/.cache/
