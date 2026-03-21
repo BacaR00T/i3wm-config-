@@ -115,13 +115,3 @@ Don’t commit secrets (tokens, browser profiles, keyrings, etc.). Deployment ma
 ## License
 
 Personal dotfiles. Use at your own risk.
-
-```
-
-After you push, GitHub will render it normally.
-
-If you want, I can also make it look cleaner by adding a tiny “Options” table (still minimal), but first get rid of the code fences—that’s the main problem.
-::contentReference[oaicite:1]{index=1}
-```
-
-[1]: https://raw.githubusercontent.com/BacaR00T/i3wm-config-/main/README.md "raw.githubusercontent.com"
