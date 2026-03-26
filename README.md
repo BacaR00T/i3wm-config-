@@ -23,5 +23,6 @@ stow -t ~ -D alacritty fish i3 extras
 
 restow
 stow -t ~ -R alacritty fish i3 extras
+```
 
 ![literally me](lain.png)
