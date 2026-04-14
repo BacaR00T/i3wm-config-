@@ -14,7 +14,7 @@ My dotfiles managed with GNU Stow.
 ```bash
 git clone https://github.com/BacaR00T/dotfiles
 cd ~/dotfiles/i3wm-config-
-yay -S alacritty dmenu input-remapper polkit-gnome brave-bin thunar feh picom fish stow
+yay -S alacritty dmenu input-remapper polkit-gnome brave-bin thunar feh picom fish stow i3status-rust
 
 stow
 stow -t ~ alacritty fish i3 extras
